@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\imports",
+    "\\imports\\api",
+    "\\imports\\ui",
+    "\\server"
+  ],
+  "SelectedNode": "\\imports\\ui\\app.jsx",
+  "PreviewInSolutionExplorer": false
+}
